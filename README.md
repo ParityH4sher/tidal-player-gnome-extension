@@ -1,0 +1,1 @@
+# tidal-player-gnome-extension
